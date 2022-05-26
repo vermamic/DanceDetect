@@ -7,7 +7,7 @@ Requirements:
 3. Odot max pacakage available here: https://github.com/CNMAT/CNMAT-odot
 
 To run:
-1. Open Dance detect max patch
+1. Open Dancedetect4 max patch after all packages are added to max package folder.
 2. If first time running, double click mo.posenet /body object near Posenet toggle. Then click button under inlet 3 to install posenet. (only needs to be done once) Then go back to main screen.
 3. Start Posenet toggle (brings up new window). This window must be up to actively detect poses.
 4. Start all-sounds toggle.
